@@ -9,6 +9,8 @@ const takenUsernames = [
     'P123JS456',
 ]
 
-const validateForm = (username, password, email, emailConfirmation) => {}
+const validateForm = (username, password, email, emailConfirmation) => {
+    // Implement me
+}
 
 console.log(validateForm(USERNAME, PASSWORD, EMAIL, EMAIL_CONFIRMATION))

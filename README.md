@@ -8,4 +8,4 @@ Template für die Einsendeaufgabe "Formularvalidierung" der Class "Javascript Gr
 
 ## Demo
 
-Eine Demo der Einsendeaufgabe findet sich unter: <a href="https://terminal.webmasters-akademie.dev/">https://terminal.webmasters-akademie.dev/</a>
+Eine Demo der Einsendeaufgabe findet sich unter: <a href="https://terminal.webmasters.dev/">https://terminal.webmasters.dev/</a>
