@@ -4,7 +4,7 @@ Template für die Einsendeaufgabe "Formularvalidierung" der Class "Javascript Gr
 </p>
 
 ## Formularvalidierung
-*Formularvalidierung* ist eine Applikation, die durch selbstständige Implementierung von Funktionen und Verwendung der JavaScript-String-Funktionen erste Grundlagen des JavaScript-Sprachkerns abfragt. Dieses Template ist der Ausgangspunkt von dem du in die Einsendeaufgabe starten kannst. Tobe dich aus und setzte deiner Kreativität keine Grenzen.
+*Formularvalidierung* ist eine Applikation, die durch selbstständige Implementierung von Funktionen und Verwendung der JavaScript-String-Funktionen erste Grundlagen des JavaScript-Sprachkerns abfragt. Dieses Template ist der Ausgangspunkt, von dem aus du in die Einsendeaufgabe starten kannst. Hier kannst du dich austoben, deiner Kreativität sind keine Grenzen gesetzt.
 
 ## Demo
 
